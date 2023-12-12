@@ -1,7 +1,7 @@
-Crimson
-Orange
-Blue
-Cyan
+Crimson1
+Orange1
+Blue1
+Cyan1
 Yellow
 Charcoal
 Khaki
