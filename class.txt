@@ -10,4 +10,5 @@ Silver
 Purple
 Brown
 Red
-Grenn
+Gren
+White
