@@ -7,7 +7,11 @@ Charcoal
 Khaki
 Coral
 Silver
+Oliyam
 Fuchsia
 Purple
 Brown
 Red
+Black
+DarkBlue
+DarkGreen
