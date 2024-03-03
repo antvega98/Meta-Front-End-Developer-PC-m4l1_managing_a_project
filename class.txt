@@ -7,7 +7,7 @@ Charcoal
 Khaki
 Coral
 Silver
-Fushsia
+Fuchsia
 Purple
 Brown
 Red
