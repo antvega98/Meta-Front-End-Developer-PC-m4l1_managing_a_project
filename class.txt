@@ -1,6 +1,6 @@
 Crimson
 Orange
-Blue
+Magenta
 Cyan
 Yellow
 Charcoal
