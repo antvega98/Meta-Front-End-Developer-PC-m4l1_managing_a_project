@@ -11,3 +11,7 @@ Fuchsia
 Purple
 Brown
 Red
+OrangeCorange
+FloralMoral
+DoralToral
+Smeegul
