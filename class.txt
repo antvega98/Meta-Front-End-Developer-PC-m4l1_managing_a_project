@@ -1,5 +1,5 @@
-Crimson
-Orange
+crimson
+orange
 Blue
 Cyan
 Yellow
