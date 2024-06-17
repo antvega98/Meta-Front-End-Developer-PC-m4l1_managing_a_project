@@ -1,10 +1,8 @@
 Crimson
 Orange
-..........diff1
 Blue
 Cyan
 Yellow
-..........diff2
 Charcoal
 Khaki
 Coral
@@ -13,4 +11,3 @@ Fuchsia
 Purple
 Brown
 Red
-.........diff3
