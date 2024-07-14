@@ -1,9 +1,9 @@
 Crimson
-Orange
+Oranged
 Blue
 Cyan
 Yellow
-Charcoal
+Charcoale
 Khaki
 Coral
 Silver
