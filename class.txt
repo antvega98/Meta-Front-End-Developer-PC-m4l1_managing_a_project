@@ -1,3 +1,4 @@
+Red
 Crimson
 Orange
 Blue
@@ -10,4 +11,5 @@ Silver
 Fuchsia
 Purple
 Brown
-Red
+White
+Purpl
